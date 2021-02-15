@@ -1,1 +1,1 @@
-In this file a map is provided showing the population of different areas. The location of volcanoes along with their haights (in m) will be visible on clicking the markers.Run the code after which a file named Map1.html will be saved. Open the file and the map should be visible.
+In this file a map is provided showing the population of different areas. The location of volcanoes along with their heights (in m) will be visible on clicking the markers.Run the code after which a file named Map1.html will be saved. Open the file and the map should be visible.
